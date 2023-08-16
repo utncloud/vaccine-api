@@ -1,0 +1,22 @@
+[
+    {
+       "personId":603940984,
+       "name":"Juan Enrique",
+       "lastName":"Pérez Camacho",
+       "provinceCode":6,
+       "birthdate":"2012-12-18",
+       "gender":"M",
+       "lat":-1,
+       "long":10
+    },
+    {
+       "personId":604520748,
+       "name":"Melissa",
+       "lastName":"Aguirre Villalobos",
+       "provinceCode":4,
+       "birthdate":"1995-06-21",
+       "gender":"F",
+       "lat":-1,
+       "long":10
+    }
+ ]
